@@ -9,3 +9,4 @@ I made this website to showcase my protfolio so that you can see the work that i
 Skills: HTML/CSS/BOOTSTARP/WORDPRESS/PYTHON
 
 - 🔭 I’m currently working Python-Django. 
+![GitHub Stats](https://github-readme-stats.vercel.app/api username=shahzoor123 &theme=radical)
