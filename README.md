@@ -8,4 +8,4 @@ I made this website to showcase my protfolio so that you can see the work that i
 
 Skills: HTML/CSS/BOOTSTARP/WORDPRESS/PYTHON
 
-- 🔭 I’m currently working on this page. 
+- 🔭 I’m currently working Python-Django. 
