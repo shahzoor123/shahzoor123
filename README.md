@@ -4,6 +4,8 @@
 
 I made this website to showcase my protfolio so that you can see the work that i have done
 
+[Portfolio Site](https://technigator.netlify.app/)
+
 Skills: HTML/CSS/BOOTSTARP/WORDPRESS/PYTHON
 
 - 🔭 I’m currently working on this page. 
