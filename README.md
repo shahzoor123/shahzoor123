@@ -17,8 +17,8 @@
 
 <p align="center">
   <img width="400" src="https://github.com/shahzoor123/My-Portfolio-Website/blob/master/323434.png" />
-  <img width="400" src="https://github.com/YuriDevAT/smart-shopping-list/blob/main/public/Thumbnail.png" />
- <a href="https://github.com/YuriDevAT/sos-animals">
+  <img width="400" src="" />
+ <a href="https://github.com/shahzoor123/My-Portfolio-Website.git">
   <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=YuriDevAT&repo=sos-animals&theme=tokyonight" />
 </a>
   <a href="https://github.com/YuriDevAT/smart-shopping-list">
