@@ -1,8 +1,6 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shahzoor123&theme=dark)](https://github.com/shahzoor123/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shahzoor123&langs_count=8&theme=dark&layout=compact)](https://github.com/shahzoor123/github-readme-stats)
 
 <p>
-  <h1 align="center" ><b>Hi there, I'm shahzoor khan <img src="https://thumbs.gfycat.com/ExemplaryFairFeline-size_restricted.gif" alt="" width="100"></h1>
+  <h1 align="center" ><b>Hi there, I'm shahzoor khan <img src="https://user-images.githubusercontent.com/49365063/151154364-e3775b2b-c543-43bb-9395-ba89b6ebdc9b.gif" alt="" width="100"></h1>
 </p>
 <p align="center">
 <a href="https://technigator.netlify.app/"><img src="https://img.shields.io/badge/PORTFOLIO-CC6699?style=for-the-badge&logoColor=white alt="Portfolio" /></a>&nbsp;
@@ -75,5 +73,8 @@
 <br>
 
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shahzoor123&theme=dark)](https://github.com/shahzoor123/github-readme-stats)
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shahzoor123&langs_count=8&theme=dark&layout=compact)](https://github.com/shahzoor123/github-readme-stats)
 
 
