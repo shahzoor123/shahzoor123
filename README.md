@@ -16,26 +16,31 @@
 <br />
 
 <p align="center">
-  <img width="400" src="https://github.com/shahzoor123/My-Portfolio-Website/blob/master/323434.png" />
-<a href="https://github.com/shahzoor123/My-Portfolio-Website.git">
-  <img align="" src="https://user-images.githubusercontent.com/49365063/151129667-6ab3bc0f-9388-4db8-8efb-278b059e8cf8.png" />
+ <img width="400" src="https://github.com/shahzoor123/My-Portfolio-Website/blob/master/323434.png" />
+  <img width="400" src="https://user-images.githubusercontent.com/49365063/151130816-23a17fad-f4f6-4813-a649-7342ef3ed161.jpg" />
+ <a href="https://github.com/shahzoor123/My-Portfolio-Website.git">
+  <img align="" src="https://user-images.githubusercontent.com/49365063/151130938-063f23e4-b8b1-4098-91f2-b0eb92fab5f7.png" />
+</a>
+  <a href="https://github.com/shahzoor123/ATM-Program.git">
+  <img align="" src="https://user-images.githubusercontent.com/49365063/151131009-0e9436c5-7af7-4738-a2fb-2246804b8304.png" />
+</a>
+  
+
+
+
+
+
+  <img width="400" src="https://user-images.githubusercontent.com/49365063/151131167-2a2aafdf-7e5d-4662-abc2-1d4c89063f53.png" />
+  <img width="400" src="https://user-images.githubusercontent.com/49365063/151131213-ed912cff-4613-4e4d-8d3d-3b68f23f6033.png" />
+  <a href="https://github.com/shahzoor123/Management-software-Porject.git">
+  <img align="" src="https://user-images.githubusercontent.com/49365063/151131410-b304474a-7684-4965-953a-08804111dede.png" />
+</a>
+<a href="https://github.com/shahzoor123/Logic-gates-in-nueral-network.git">
+  <img align="" src="https://user-images.githubusercontent.com/49365063/151131509-f934dd7a-3e10-4312-ade0-1789c7f6e2cb.png" />
 </a>
   
   
-  <img width="400" src="https://user-images.githubusercontent.com/49365063/151123717-d97c783d-d342-43ed-b1fc-cc35d1b34177.jpg" /> 
-<a href="https://github.com/shahzoor123/ATM-Program.git">
-  <img align="" src="https://user-images.githubusercontent.com/49365063/151130349-82c4f563-7be1-44ae-a674-97c7123ebf98.png" />
-</a>
   
-  
-  <img width="400" src="https://github.com/YuriDevAT/nikki-my-diary/blob/main/public/thumbnail-nikki.png" />
-  <img width="400" src="https://github.com/YuriDevAT/instagram-clone/blob/main/thumbnail-instagram.png" />
-  <a href="https://github.com/YuriDevAT/nikki-my-diary">
-  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=YuriDevAT&repo=nikki-my-diary&theme=tokyonight" />
-</a>
-<a href="https://github.com/YuriDevAT/instagram-clone">
-  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=YuriDevAT&repo=instagram-clone&theme=tokyonight" />
-</a>
 </p>
 
 <br />
