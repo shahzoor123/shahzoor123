@@ -1,3 +1,6 @@
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shahzoor123&theme=dark)](https://github.com/shahzoor123/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shahzoor123&langs_count=8&theme=dark&layout=compact)](https://github.com/shahzoor123/github-readme-stats)
+
 <p>
   <h1 align="center" ><b>Hi there, I'm shahzoor khan <img src="https://thumbs.gfycat.com/ExemplaryFairFeline-size_restricted.gif" alt="" width="100"></h1>
 </p>
@@ -71,8 +74,6 @@
 
 <br>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shahzoor123&theme=dark)](https://github.com/shahzoor123/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shahzoor123&langs_count=8&theme=dark&layout=compact)](https://github.com/shahzoor123/github-readme-stats)
 
 
