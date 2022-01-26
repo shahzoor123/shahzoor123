@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/49365063/151154364-e3775b2b-c543-43bb-9395-ba89b6ebdc9b.gif" alt="" width="300">
+<p align="center"><img src="https://user-images.githubusercontent.com/49365063/151154364-e3775b2b-c543-43bb-9395-ba89b6ebdc9b.gif" alt="" width="300"></p>
 <p>
 <h1 align="center" ><b>Hi there, I'm shahzoor khan </h1>
 </p>
