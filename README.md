@@ -1,5 +1,5 @@
 <p>
-  <h1 align="center" ><b>Hi there, I'm shahzoor khan <img src="https://thumbs.gfycat.com/ExemplaryFairFeline-size_restricted.gif" alt="" width="30"></h1>
+  <h1 align="center" ><b>Hi there, I'm shahzoor khan <img src="https://thumbs.gfycat.com/ExemplaryFairFeline-size_restricted.gif" alt="" width="100"></h1>
 </p>
 <p align="center">
 <a href="https://technigator.netlify.app/"><img src="https://img.shields.io/badge/PORTFOLIO-CC6699?style=for-the-badge&logoColor=white alt="Portfolio" /></a>&nbsp;
@@ -68,7 +68,7 @@
 <img src="https://user-images.githubusercontent.com/49365063/151142781-74ee8596-bd44-4ef6-b596-1f2c810b20a0.svg" width="60"> 
 </p>
 <br />
----
+
 <br>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shahzoor123&theme=dark)](https://github.com/shahzoor123/github-readme-stats)
