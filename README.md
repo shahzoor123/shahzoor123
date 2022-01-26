@@ -16,15 +16,17 @@
 <br />
 
 <p align="center">
- <img width="400" src="https://github.com/shahzoor123/My-Portfolio-Website/blob/master/323434.png" /> first image
-  <img width="400" src="https://user-images.githubusercontent.com/49365063/151133363-602d4ba2-91d2-499a-9cc3-9fa66c7c1628.jpg" /> second image
+ <img width="400" src="https://github.com/shahzoor123/My-Portfolio-Website/blob/master/323434.png" /> 
+  <img width="400" src="https://user-images.githubusercontent.com/49365063/151133363-602d4ba2-91d2-499a-9cc3-9fa66c7c1628.jpg" />
 
 
  <a href="https://github.com/shahzoor123/My-Portfolio-Website.git"> anchor 1
-  <img align="" src="https://user-images.githubusercontent.com/49365063/151130938-063f23e4-b8b1-4098-91f2-b0eb92fab5f7.png" /> description img 1
+  <img align="" src="https://user-images.githubusercontent.com/49365063/151135070-39bda5a6-8dbe-4666-a9a9-7fd78687684d.png" /> 
+
 </a>
   <a href="https://github.com/shahzoor123/ATM-Program.git"> anchor 2
-  <img align="" src="https://user-images.githubusercontent.com/49365063/151131009-0e9436c5-7af7-4738-a2fb-2246804b8304.png" /> description img 2
+  <img align="" src="https://user-images.githubusercontent.com/49365063/151135061-5fc3b8a6-7166-4a34-8e93-9138934c0d35.png" />
+
 </a>
   
 
@@ -32,13 +34,13 @@
 
 
 
-  <img width="400" src="https://user-images.githubusercontent.com/49365063/151131167-2a2aafdf-7e5d-4662-abc2-1d4c89063f53.png" /> third image
-  <img width="400" src="https://user-images.githubusercontent.com/49365063/151131213-ed912cff-4613-4e4d-8d3d-3b68f23f6033.png" /> fouth image
+  <img width="400" src="https://user-images.githubusercontent.com/49365063/151131167-2a2aafdf-7e5d-4662-abc2-1d4c89063f53.png" /> 
+  <img width="400" src="https://user-images.githubusercontent.com/49365063/151131213-ed912cff-4613-4e4d-8d3d-3b68f23f6033.png" /> 
   <a href="https://github.com/shahzoor123/Management-software-Porject.git"> anchor 3 
-  <img align="" src="https://user-images.githubusercontent.com/49365063/151131410-b304474a-7684-4965-953a-08804111dede.png" />description img 3 
+  <img align="" src="https://user-images.githubusercontent.com/49365063/151131410-b304474a-7684-4965-953a-08804111dede.png" />
 </a>
 <a href="https://github.com/shahzoor123/Logic-gates-in-nueral-network.git"> anchor 4 
-  <img align="" src="https://user-images.githubusercontent.com/49365063/151131509-f934dd7a-3e10-4312-ade0-1789c7f6e2cb.png" /> description img 4
+  <img align="" src="https://user-images.githubusercontent.com/49365063/151131509-f934dd7a-3e10-4312-ade0-1789c7f6e2cb.png" /> 
 </a>
   
   
