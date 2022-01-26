@@ -1,6 +1,6 @@
 
 <p>
-  <h1 align="center" ><b>Hi there, I'm shahzoor khan <img src="https://user-images.githubusercontent.com/49365063/151154364-e3775b2b-c543-43bb-9395-ba89b6ebdc9b.gif" alt="" width="100"></h1>
+  <h1 align="center" ><b>Hi there, I'm shahzoor khan <img src="https://user-images.githubusercontent.com/49365063/151154364-e3775b2b-c543-43bb-9395-ba89b6ebdc9b.gif" alt="" width="300"></h1>
 </p>
 <p align="center">
 <a href="https://technigator.netlify.app/"><img src="https://img.shields.io/badge/PORTFOLIO-CC6699?style=for-the-badge&logoColor=white alt="Portfolio" /></a>&nbsp;
