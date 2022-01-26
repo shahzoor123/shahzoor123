@@ -38,7 +38,8 @@
 
 
   <img width="400" src="https://user-images.githubusercontent.com/49365063/151131167-2a2aafdf-7e5d-4662-abc2-1d4c89063f53.png" /> 
-  <img width="400" src="https://user-images.githubusercontent.com/49365063/151131213-ed912cff-4613-4e4d-8d3d-3b68f23f6033.png" /> 
+  <img width="400" src="https://user-images.githubusercontent.com/49365063/151137789-98930bd7-f7cf-4ab1-a679-3c79367c7ffd.jpg" /> 
+
   <a href="https://github.com/shahzoor123/Management-software-Porject.git"> 
   <img align="" src="https://user-images.githubusercontent.com/49365063/151131410-b304474a-7684-4965-953a-08804111dede.png" />
 </a>
