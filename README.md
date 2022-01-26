@@ -2,26 +2,26 @@
   <h1 align="center"><b>Hi there, I'm shahzoor khan <img src="https://docs.google.com/uc?export=download&id=166Ecq6uBl61U14OUlkHOHIBv2ArKoumJ" alt="" width="30"></h1>
 </p>
 <p align="center">
-<a href="https://julia-undeutsch.netlify.app/"><img src="https://img.shields.io/badge/PORTFOLIO-CC6699?style=for-the-badge&logoColor=white alt="Portfolio" /></a>&nbsp;
+<a href="https://technigator.netlify.app/"><img src="https://img.shields.io/badge/PORTFOLIO-CC6699?style=for-the-badge&logoColor=white alt="Portfolio" /></a>&nbsp;
 <a href="https://codepen.io/YuriDevAT"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen" /></a>&nbsp;
 <a href="https://twitter.com/YuriDevAT"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>&nbsp;
 <a href="https://dev.to/yuridevat"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white alt="Dev.to" /></a>&nbsp;
 </p>
 <br />
 
-<p>Enthusiastic Software Engineer since 2020 using ReactJS, Angular and Java Spring Boot. a11y minded. Scrum & Agile inspired.</p>
+<p>Enthusiastic Software Engineer since 2015 using PYTHON-HTML-CSS-JAVASCRIPT and currently working on DJANGO</p>
 <br />
 
-<h2 align="center">My favorite projects 💻</h2>
+<h2 align="center">Some of my early projects💻</h2>
 <br />
 
 <p align="center">
   <img width="400" src="https://github.com/shahzoor123/My-Portfolio-Website/blob/master/323434.png" />
-  <img width="400" src="" />
+  <img width="400" src="https://user-images.githubusercontent.com/49365063/151127945-1e7a9c1e-908a-4b24-9254-b99e095df52a.png" /> 
  <a href="https://github.com/shahzoor123/My-Portfolio-Website.git">
-  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=YuriDevAT&repo=sos-animals&theme=tokyonight" />
+  <img align="" src="" />
 </a>
-  <a href="https://github.com/YuriDevAT/smart-shopping-list">
+  <a href="https://github.com/shahzoor123/ATM-Program.git">
   <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=YuriDevAT&repo=smart-shopping-list&theme=tokyonight" />
 </a>
   <img width="400" src="https://github.com/YuriDevAT/nikki-my-diary/blob/main/public/thumbnail-nikki.png" />
