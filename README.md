@@ -24,8 +24,8 @@
   <img align="" src="https://user-images.githubusercontent.com/49365063/151135070-39bda5a6-8dbe-4666-a9a9-7fd78687684d.png" /> 
 
 </a>
-  <a href="https://github.com/shahzoor123/ATM-Program.git">
-  <img align="" src="https://user-images.githubusercontent.com/49365063/151135061-5fc3b8a6-7166-4a34-8e93-9138934c0d35.png" />
+  <a href="https://github.com/shahzoor123/Logic-gates-in-nueral-network.git">
+  <img align="" src="https://user-images.githubusercontent.com/49365063/151131509-f934dd7a-3e10-4312-ade0-1789c7f6e2cb.png" />
 
 </a>
   
@@ -39,8 +39,8 @@
   <a href="https://github.com/shahzoor123/Management-software-Porject.git"> 
   <img align="" src="https://user-images.githubusercontent.com/49365063/151131410-b304474a-7684-4965-953a-08804111dede.png" />
 </a>
-<a href="https://github.com/shahzoor123/Logic-gates-in-nueral-network.git">  
-  <img align="" src="https://user-images.githubusercontent.com/49365063/151131509-f934dd7a-3e10-4312-ade0-1789c7f6e2cb.png" /> 
+<a href="https://github.com/shahzoor123/ATM-Program.git ">  
+  <img align="" src="https://user-images.githubusercontent.com/49365063/151135061-5fc3b8a6-7166-4a34-8e93-9138934c0d35.png" /> 
 </a>
   
   
