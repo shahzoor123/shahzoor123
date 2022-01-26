@@ -74,5 +74,7 @@
 <br />
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shahzoor123&theme=radical)](https://github.com/shahzoor123/github-readme-stats)
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shahzoor123&langs_count=8)](https://github.com/shahzoor123/github-readme-stats)
 
 
