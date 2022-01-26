@@ -68,13 +68,9 @@
 <img src="https://user-images.githubusercontent.com/49365063/151142781-74ee8596-bd44-4ef6-b596-1f2c810b20a0.svg" width="60"> 
 </p>
 <br />
-
 ---
-
-<br />
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shahzoor123&theme=dark)](https://github.com/shahzoor123/github-readme-stats)
-<hr>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shahzoor123&langs_count=8&theme=dark&layout=compact)](https://github.com/shahzoor123/github-readme-stats)
 
 
