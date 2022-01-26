@@ -21,7 +21,8 @@
 
 
  <a href="https://github.com/shahzoor123/My-Portfolio-Website.git"> 
-  <img align="" src="https://user-images.githubusercontent.com/49365063/151136796-a30e2942-f729-46d6-8bb7-1979afd40777.png" /> 
+  <img align="" src="https://user-images.githubusercontent.com/49365063/151136992-7b3e05d3-5d40-439a-a083-7d05d279ece2.png" />
+
 
 
 </a>
