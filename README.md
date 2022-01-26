@@ -72,6 +72,8 @@
 ---
 
 <br />
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shahzoor123)](https://github.com/shahzoor123/github-readme-stats)
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=YuriDevAT&theme=radical&show_icons=true" width="410"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuriDevAT&layout=compact&theme=radical" width="400" />
