@@ -17,7 +17,8 @@
 
 <p align="center">
  <img width="400" src="https://github.com/shahzoor123/My-Portfolio-Website/blob/master/323434.png" /> 
-  <img width="400" src="https://user-images.githubusercontent.com/49365063/151133363-602d4ba2-91d2-499a-9cc3-9fa66c7c1628.jpg" />
+  <img width="400" src="https://user-images.githubusercontent.com/49365063/151137153-09ad2cb0-7ad7-4a4a-9676-a48eb5929e16.png" />
+
 
 
  <a href="https://github.com/shahzoor123/My-Portfolio-Website.git"> 
