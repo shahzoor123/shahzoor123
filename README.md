@@ -17,14 +17,17 @@
 
 <p align="center">
   <img width="400" src="https://github.com/shahzoor123/My-Portfolio-Website/blob/master/323434.png" />
-  <img width="400" src="https://user-images.githubusercontent.com/49365063/151123717-d97c783d-d342-43ed-b1fc-cc35d1b34177.jpg" /> 
- <a href="https://github.com/shahzoor123/My-Portfolio-Website.git">
+<a href="https://github.com/shahzoor123/My-Portfolio-Website.git">
   <img align="" src="https://user-images.githubusercontent.com/49365063/151129667-6ab3bc0f-9388-4db8-8efb-278b059e8cf8.png" />
-
 </a>
-  <a href="https://github.com/shahzoor123/ATM-Program.git">
-  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=YuriDevAT&repo=smart-shopping-list&theme=tokyonight" />
+  
+  
+  <img width="400" src="https://user-images.githubusercontent.com/49365063/151123717-d97c783d-d342-43ed-b1fc-cc35d1b34177.jpg" /> 
+<a href="https://github.com/shahzoor123/ATM-Program.git">
+  <img align="" src="https://user-images.githubusercontent.com/49365063/151130349-82c4f563-7be1-44ae-a674-97c7123ebf98.png" />
 </a>
+  
+  
   <img width="400" src="https://github.com/YuriDevAT/nikki-my-diary/blob/main/public/thumbnail-nikki.png" />
   <img width="400" src="https://github.com/YuriDevAT/instagram-clone/blob/main/thumbnail-instagram.png" />
   <a href="https://github.com/YuriDevAT/nikki-my-diary">
