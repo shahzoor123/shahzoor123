@@ -16,8 +16,8 @@
 <br />
 
 <p align="center">
- <img width="300" src="https://github.com/shahzoor123/My-Portfolio-Website/blob/master/323434.png" /> 
-  <img width="300" src="https://user-images.githubusercontent.com/49365063/151138853-cb96c56e-67fe-4503-b755-d6b8e5ce7c1c.png" />
+ <img width="500" src="https://github.com/shahzoor123/My-Portfolio-Website/blob/master/323434.png" /> 
+  <img width="500" src="https://user-images.githubusercontent.com/49365063/151138853-cb96c56e-67fe-4503-b755-d6b8e5ce7c1c.png" />
 <br>
  <a href="https://github.com/shahzoor123/My-Portfolio-Website.git"> 
   <img align="" src="https://user-images.githubusercontent.com/49365063/151136992-7b3e05d3-5d40-439a-a083-7d05d279ece2.png" />
@@ -25,8 +25,8 @@
   <a href="https://github.com/shahzoor123/Logic-gates-in-nueral-network.git">
   <img align="" src="https://user-images.githubusercontent.com/49365063/151131509-f934dd7a-3e10-4312-ade0-1789c7f6e2cb.png" />
 </a> 
-  <img width="300" src="https://user-images.githubusercontent.com/49365063/151131167-2a2aafdf-7e5d-4662-abc2-1d4c89063f53.png" /> 
-  <img width="300" src="https://user-images.githubusercontent.com/49365063/151137789-98930bd7-f7cf-4ab1-a679-3c79367c7ffd.jpg" /> 
+  <img width="500" src="https://user-images.githubusercontent.com/49365063/151131167-2a2aafdf-7e5d-4662-abc2-1d4c89063f53.png" /> 
+  <img width="500" src="https://user-images.githubusercontent.com/49365063/151137789-98930bd7-f7cf-4ab1-a679-3c79367c7ffd.jpg" /> 
 
   <a href="https://github.com/shahzoor123/Management-software-Porject.git"> 
   <img align="" src="https://user-images.githubusercontent.com/49365063/151131410-b304474a-7684-4965-953a-08804111dede.png" />
