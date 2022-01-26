@@ -9,7 +9,7 @@
 </p>
 <br />
 
-<p>Enthusiastic Software Engineer since 2015 using PYTHON-HTML-CSS-JAVASCRIPT and currently working on DJANGO</p>
+<h1 align="center">Enthusiastic Software Engineer since 2015 using PYTHON-HTML-CSS-JAVASCRIPT and currently working on DJANGO</h1>
 <br />
 
 <h2 align="center">Some of my early projects💻</h2>
