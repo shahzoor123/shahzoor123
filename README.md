@@ -44,9 +44,9 @@
 
 <h2 align="center">About me</h2>
 <br />
-<p>In my latest project, I created an <a href="https://github.com/YuriDevAT/sos-animals">SOS Animal App</a> which will help abandoned animals get help from Animal welfare organizations in Romania when people reporting them via this app. I created this project to participate in my first hackathon - Clerk x Hashnode Hackathon July 2021. 🏆 This project was one of the Runner Up Winners. 🥳</p>
+<p>Currently working on the fullstack web application using python/Django it is discord type of application in which you can create room and discuss specific topics its fun projects soon will be on Github 🥳</p>
 
-:muscle: I am currently helping others to get into tech too by creating content using Twitter.<br />
+:muscle: I am currently Woring on Django Framwork to became a full stack developer and also woring on the skill of ASP.net for enterprise Applications<br />
 
 
 
