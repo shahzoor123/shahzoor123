@@ -72,8 +72,8 @@
 ---
 
 <br />
-[!Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shahzoor123&show_icons=true&theme=radical)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shahzoor123)](https://github.com/shahzoor123/github-readme-stats)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shahzoor123&theme=radical)](https://github.com/shahzoor123/github-readme-stats)
 <p align="center">
 
 </p>
