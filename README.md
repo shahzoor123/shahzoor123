@@ -17,9 +17,10 @@
 
 <p align="center">
   <img width="400" src="https://github.com/shahzoor123/My-Portfolio-Website/blob/master/323434.png" />
-  <img width="400" src="" /> 
+  <img width="400" src="https://user-images.githubusercontent.com/49365063/151129667-6ab3bc0f-9388-4db8-8efb-278b059e8cf8.png" /> 
  <a href="https://github.com/shahzoor123/My-Portfolio-Website.git">
-  <img align="" src="" />
+  <img align="" src="https://user-images.githubusercontent.com/49365063/151129667-6ab3bc0f-9388-4db8-8efb-278b059e8cf8.png" />
+
 </a>
   <a href="https://github.com/shahzoor123/ATM-Program.git">
   <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=YuriDevAT&repo=smart-shopping-list&theme=tokyonight" />
