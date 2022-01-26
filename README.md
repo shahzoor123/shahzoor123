@@ -43,7 +43,8 @@
   <img align="" src="https://user-images.githubusercontent.com/49365063/151131410-b304474a-7684-4965-953a-08804111dede.png" />
 </a>
 <a href="https://github.com/shahzoor123/ATM-Program.git ">  
-  <img align="" src="https://user-images.githubusercontent.com/49365063/151137381-f2207d7a-f95f-40bf-83a8-999b1e2a0318.png" /> 
+  <img align="" src="https://user-images.githubusercontent.com/49365063/151137592-2d9cb36b-bab4-4b1f-8660-f6aa37ea55b0.png" /> 
+
 
 </a>
   
