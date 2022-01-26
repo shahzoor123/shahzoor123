@@ -21,7 +21,8 @@
 
 
  <a href="https://github.com/shahzoor123/My-Portfolio-Website.git"> 
-  <img align="" src="https://user-images.githubusercontent.com/49365063/151135070-39bda5a6-8dbe-4666-a9a9-7fd78687684d.png" /> 
+  <img align="" src="https://user-images.githubusercontent.com/49365063/151136796-a30e2942-f729-46d6-8bb7-1979afd40777.png" /> 
+
 
 </a>
   <a href="https://github.com/shahzoor123/Logic-gates-in-nueral-network.git">
