@@ -36,18 +36,22 @@
   <img width="380" align="" src="https://user-images.githubusercontent.com/49365063/151137592-2d9cb36b-bab4-4b1f-8660-f6aa37ea55b0.png" /> 
 </a>
  
+
+
  
+  <img width="380" src="https://user-images.githubusercontent.com/49365063/154258617-4a1c7824-267d-412b-b940-c15c09b26566.jpg" /> 
+  <img width="380" src="https://user-images.githubusercontent.com/49365063/154258867-c1f62479-f086-407f-8c08-1f314f0a001d.png" /> 
+
  
-  <img width="380" src="https://user-images.githubusercontent.com/49365063/151131167-2a2aafdf-7e5d-4662-abc2-1d4c89063f53.png" /> 
-  <img width="380" src="https://user-images.githubusercontent.com/49365063/151137789-98930bd7-f7cf-4ab1-a679-3c79367c7ffd.jpg" /> 
- 
-<a href="https://github.com/shahzoor123/Management-software-Porject.git"> 
+<a href="https://github.com/shahzoor123/Student-Grade-Predictor"> 
   <img width="380" align="" src="https://user-images.githubusercontent.com/49365063/151131410-b304474a-7684-4965-953a-08804111dede.png" />
 </a>
-<a href="https://github.com/shahzoor123/ATM-Program.git ">  
-  <img width="380" align="" src="https://user-images.githubusercontent.com/49365063/151137592-2d9cb36b-bab4-4b1f-8660-f6aa37ea55b0.png" /> 
+
+<a href="https://github.com/shahzoor123/Fashsion-Mnist-Predictor ">  
+  <img width="380" align="" src="https://user-images.githubusercontent.com/49365063/154258970-8e24dc99-cbea-416a-91a9-9f97c6c6c542.png" /> 
 </a>
-  
+ 
+
  
 </p>
 
