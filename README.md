@@ -42,15 +42,16 @@
   <img width="380" src="https://user-images.githubusercontent.com/49365063/154258617-4a1c7824-267d-412b-b940-c15c09b26566.jpg" /> 
   <img width="380" src="https://user-images.githubusercontent.com/49365063/154258867-c1f62479-f086-407f-8c08-1f314f0a001d.png" /> 
 
- 
+
 <a href="https://github.com/shahzoor123/Student-Grade-Predictor"> 
-  <img width="380" align="" src="https://user-images.githubusercontent.com/49365063/151131410-b304474a-7684-4965-953a-08804111dede.png" />
+  <img width="380" align="" src="https://user-images.githubusercontent.com/49365063/154260534-7102ab78-036d-4744-9928-286c39b1bed4.png" />
 </a>
 
 <a href="https://github.com/shahzoor123/Fashsion-Mnist-Predictor ">  
-  <img width="380" align="" src="" /> 
+  <img width="380" align="" src="https://user-images.githubusercontent.com/49365063/154260606-b52eaf18-25d4-452b-940d-7b17dac3a7be.png" /> 
 </a>
  
+
 
  
 </p>
