@@ -51,6 +51,25 @@
   <img width="380" align="" src="https://user-images.githubusercontent.com/49365063/154260606-b52eaf18-25d4-452b-940d-7b17dac3a7be.png" /> 
 </a>
  
+ 
+ 
+<!--Groupper  and cancer-->
+ 
+  <img width="380" src="https://user-images.githubusercontent.com/49365063/154354912-2ef4c7b0-73ad-4c33-9632-e907dec2c461.png" /> 
+  <img width="380" src="https://user-images.githubusercontent.com/49365063/154355012-2c547899-5fe9-41bf-9ea5-97701c21b5d7.png" /> 
+
+
+
+<a href="https://github.com/shahzoor123/groupperr"> 
+  <img width="380" align="" src="https://user-images.githubusercontent.com/49365063/154355348-65cfedc7-b55a-4361-839a-9feb8a5be287.png" />
+
+</a>
+
+<a href="https://github.com/shahzoor123/Cancer-Predictor ">  
+  <img width="380" align="" src="https://user-images.githubusercontent.com/49365063/154355188-5a728145-79f8-4374-917c-3e44e0ff60e4.png" /> 
+</a>
+  
+<!--Groupper  and cancer-->
 
 
  
