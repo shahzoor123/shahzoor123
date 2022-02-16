@@ -48,7 +48,7 @@
 </a>
 
 <a href="https://github.com/shahzoor123/Fashsion-Mnist-Predictor ">  
-  <img width="380" align="" src="https://user-images.githubusercontent.com/49365063/154258970-8e24dc99-cbea-416a-91a9-9f97c6c6c542.png" /> 
+  <img width="380" align="" src="" /> 
 </a>
  
 
