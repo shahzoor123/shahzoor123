@@ -35,9 +35,20 @@
 <a href="https://github.com/shahzoor123/ATM-Program.git ">  
   <img width="380" align="" src="https://user-images.githubusercontent.com/49365063/151137592-2d9cb36b-bab4-4b1f-8660-f6aa37ea55b0.png" /> 
 </a>
+ 
+ 
+ 
+  <img width="380" src="https://user-images.githubusercontent.com/49365063/151131167-2a2aafdf-7e5d-4662-abc2-1d4c89063f53.png" /> 
+  <img width="380" src="https://user-images.githubusercontent.com/49365063/151137789-98930bd7-f7cf-4ab1-a679-3c79367c7ffd.jpg" /> 
+ 
+<a href="https://github.com/shahzoor123/Management-software-Porject.git"> 
+  <img width="380" align="" src="https://user-images.githubusercontent.com/49365063/151131410-b304474a-7684-4965-953a-08804111dede.png" />
+</a>
+<a href="https://github.com/shahzoor123/ATM-Program.git ">  
+  <img width="380" align="" src="https://user-images.githubusercontent.com/49365063/151137592-2d9cb36b-bab4-4b1f-8660-f6aa37ea55b0.png" /> 
+</a>
   
-  
-  
+ 
 </p>
 
 <br />
