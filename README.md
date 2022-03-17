@@ -103,8 +103,7 @@
 
 <img alt="Visual Studio Code" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img alt="GitHub" width="40" src="https://img.icons8.com/nolan/344/git.png" /> 
-<img alt="GitHub" width="40" src="https://img.icons8.com/ios-filled/344/github.png" />
- <img alt="GitHub" width="40" src="https://img.icons8.com/nolan/344/docker.png" />
+<img alt="GitHub" width="40" src="https://img.icons8.com/nolan/344/github.png" />
  <img alt="GitHub" width="40" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" />
 
  
@@ -116,6 +115,10 @@
  <img src="https://img.icons8.com/color/344/django.png" width="60"> 
  <br>
  <img src="https://img.icons8.com/color/344/postgreesql.png" width="60"> 
+  <br>
+ <img src="https://img.icons8.com/nolan/344/docker.png" width="60"> 
+  <br>
+ <img src="https://img.icons8.com/color/344/heroku.png" width="60"> 
 </p>
 
 
