@@ -106,17 +106,19 @@
 <img alt="GitHub" width="40" src="https://img.icons8.com/ios-filled/344/github.png" />
  <img alt="GitHub" width="40" src="https://img.icons8.com/nolan/344/docker.png" />
  <img alt="GitHub" width="40" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" />
+
  
  
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/49365063/151142781-74ee8596-bd44-4ef6-b596-1f2c810b20a0.svg" width="60">
  <br>
- <img src="https://img.icons8.com/external-tal-revivo-tritone-tal-revivo/344/external-django-a-high-level-python-web-framework-that-encourages-rapid-development-logo-tritone-tal-revivo.png" width="60"> 
+ <img src="https://img.icons8.com/color/344/django.png" width="60"> 
+ <br>
+ <img src="https://img.icons8.com/color/344/postgreesql.png" width="60"> 
 </p>
-<br />
 
-<br>
+
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shahzoor123&theme=dark)](https://github.com/shahzoor123/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shahzoor123&langs_count=8&theme=dark&layout=compact)](https://github.com/shahzoor123/github-readme-stats)
