@@ -102,12 +102,17 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 
 <img alt="Visual Studio Code" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img alt="GitHub" width="40px" src="https://img.icons8.com/nolan/344/git.png" />  
+<img alt="GitHub" width="40px" src="https://img.icons8.com/nolan/344/git.png" /> 
+<img alt="GitHub" width="40px" src="https://img.icons8.com/ios-filled/344/github.png" />
+ <img alt="GitHub" width="40px" src="https://img.icons8.com/nolan/344/docker.png" />
+ 
+ 
 <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
    </p>
 <br />
 <p align="center">
-<img src="https://user-images.githubusercontent.com/49365063/151142781-74ee8596-bd44-4ef6-b596-1f2c810b20a0.svg" width="60"> 
+<img src="https://user-images.githubusercontent.com/49365063/151142781-74ee8596-bd44-4ef6-b596-1f2c810b20a0.svg" width="60">
+ <img src="https://img.icons8.com/ios/344/django.png" width="60"> 
 </p>
 <br />
 
