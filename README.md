@@ -125,7 +125,7 @@
 
 
  
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shahzoor123&theme=dark)](https://github.com/shahzoor123/github-readme-stats)             [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?hide=javascriptusername=shahzoor123&theme=dark)](https://github.com/shahzoor123/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shahzoor123&theme=dark)](https://github.com/shahzoor123/github-readme-stats)             [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shahzoor123&theme=dark&hide=javascript)](https://github.com/shahzoor123/github-readme-stats)
 
 
 
