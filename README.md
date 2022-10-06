@@ -1,4 +1,4 @@
-<p align="center"><img src="[https://mega.nz/fm/MHomHKxY](https://mega.nz/file/JHAGQRoQ#-EgcgSw_CiVNa4FfVgiRW0DUTB5ay4Bcnzj2znFjbsc)" style="border-radius: 10% ; alt="" width="800"></p>
+<p align="center"><img src="https://mega.nz/fm/MHomHKxY](https://mega.nz/file/JHAGQRoQ#-EgcgSw_CiVNa4FfVgiRW0DUTB5ay4Bcnzj2znFjbsc" style="border-radius: 10% ; alt="" width="800"></p>
 <p align="center"><img src="https://user-images.githubusercontent.com/49365063/151154364-e3775b2b-c543-43bb-9395-ba89b6ebdc9b.gif"  " alt="" width="300"></p>
 
 
