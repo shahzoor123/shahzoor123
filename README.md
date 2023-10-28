@@ -20,7 +20,7 @@
 <h2 align="center">Enthusiastic self-tuaght Software Engineer since 2015 using PYTHON-HTML-CSS and currently working on DJANGO</h2>
 <br />
 
-<h2 align="center">Some of my early projects💻</h2>
+<h2 align="center">My Portfolio</h2>
 <br />
 
 <p align="center">
