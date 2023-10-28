@@ -1,6 +1,8 @@
 <p align="center"><img src="https://user-images.githubusercontent.com/49365063/194293589-9018b6a0-f94e-4348-b2cb-e6ed03431151.png" style="border-radius: 10% ; alt="" width="800"></p>
 
-<iframe src="https://giphy.com/embed/Rpl1sod1vCXK0L2SUN" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/hacker-sugartown-mayor-mel-Rpl1sod1vCXK0L2SUN">via GIPHY</a></p>
+<p align="center">  <img align="" src="https://giphy.com/gifs/hacker-sugartown-mayor-mel-Rpl1sod1vCXK0L2SUN" alt="" width="900"></p>
+
+
 
 <p>
 <h1 align="center" ><b>Hi, My Shahzoor khan </h1>
