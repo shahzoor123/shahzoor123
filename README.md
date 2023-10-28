@@ -17,8 +17,17 @@
 </p>
 <br />
 
-<h2 align="center">Enthusiastic self-tuaght Software Engineer since 2015 using PYTHON-HTML-CSS and currently working on DJANGO</h2>
-<br />
+<div align="center">
+ 
+ 🔭 I’m currently working on **a chat app**
+ 
+ 🌱 I’m currently learning **Redis, Tailwind, React Native Expo**
+
+ 💬 Ask me about **Node.js, React, Firebase, MongoDB... or anything [here](https://github.com/salesp07/salesp07/issues)**
+
+ ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+ 
+ </div>
 
 <h2 align="center">My Portfolio</h2>
 <br />
