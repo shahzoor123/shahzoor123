@@ -93,47 +93,26 @@
 
 
 
-<p>
-<h3 align="center"> Languages and Tools</h3>
-</p>
-<br />
-<p align="center">
-<a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 
-<img alt="Visual Studio Code" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img alt="GitHub" width="40" src="https://img.icons8.com/nolan/344/git.png" /> 
-<img alt="GitHub" width="40" src="https://img.icons8.com/nolan/344/github.png" />
- <img alt="GitHub" width="40" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" />
+  <p>
+  <h3 align="center"><b>Languages + Framworks + Tools</b> </h3>
+  </p>
 
- 
- 
-
-<p align="center">
-<img src="https://user-images.githubusercontent.com/49365063/151142781-74ee8596-bd44-4ef6-b596-1f2c810b20a0.svg" width="60">
- <br>
- <img src="https://img.icons8.com/color/344/django.png" width="60"> 
- <br>
- <img src="https://img.icons8.com/color/344/postgreesql.png" width="60"> 
-  <br>
- <img src="https://img.icons8.com/nolan/344/docker.png" width="60"> 
-  <br>
- <img src="https://img.icons8.com/color/344/heroku.png" width="60"> 
-</p>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
-</div>
-
-<h2 align="center">⚡ Stats ⚡</h2>
 <br>
-<div align=center>
-  <img width=390 src="https://streak-stats.demolab.com/?user=salesp07&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=salesp07&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=salesp07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+
+
+  <div align="center">
+    <h3 align="center"><b>Frontend</b> </h3>
+    <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,git,figma" /><br>
+    <h3 align="center"><b>Backend</b> </h3>
+    <img src="https://skillicons.dev/icons?i=nodejs,jquery,python,javascript,django,flask,electron" /><br>
+    <h3 align="center"><b>Databases</b> </h3>
+    <img src="https://skillicons.dev/icons?i=mongodb,postgres,sqlite,mysql" /><br>
+    <h3 align="center"><b>Depolyments</b> </h3>
+    <img src="https://skillicons.dev/icons?i=gcp,aws,postman,linux,docker,bash,vercel,nginx" /><br>
 </div>
+ 
+
 
 
  
