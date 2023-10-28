@@ -1,6 +1,6 @@
 <p align="center"><img src="https://user-images.githubusercontent.com/49365063/194293589-9018b6a0-f94e-4348-b2cb-e6ed03431151.png" style="border-radius: 10% ; alt="" width="800"></p>
 
-<p align="center">  <img align="" src="https://giphy.com/gifs/hacker-sugartown-mayor-mel-Rpl1sod1vCXK0L2SUN" alt="" width="900"></p>
+  <p align="center"><img src="https://media.giphy.com/media/Rpl1sod1vCXK0L2SUN/giphy.gif" ></p>
 
 
 
