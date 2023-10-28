@@ -102,7 +102,7 @@
 
 
   <div align="center">
-    <h3 align="center"><b>Frontend</b> </h3>
+    <h3 align="center" color="white"><b>Frontend</b> </h3>
     <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,git,figma" /><br>
     <h3 align="center"><b>Backend</b> </h3>
     <img src="https://skillicons.dev/icons?i=nodejs,jquery,python,javascript,django,flask,electron" /><br>
