@@ -82,13 +82,6 @@
  
 </p>
 
-<br />
-
-<h2 align="center">About me</h2>
-<br />
-<p>Currently working on the fullstack web application using python/Django it is discord type of application in which you can create room and discuss specific topics its fun projects soon will be on Github 🥳</p>
-
-:muscle: I am currently Working on Django Framwork to became a full stack developer <br />
 
 
 
