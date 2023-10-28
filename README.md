@@ -35,7 +35,7 @@
 <p align="center">
 
   <a href="https://github.com/shahzoor123/Management-software-Porject.git"> 
-  <img width="380" align="" src="https://user-images.githubusercontent.com/49365063/151131410-b304474a-7684-4965-953a-08804111dede.png" />
+  <img width="380" align="" src="https://github.com/shahzoor123/shahzoor123/blob/main/1.png?raw=true" />
 </a>
 
 
