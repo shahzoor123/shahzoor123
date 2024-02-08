@@ -2,7 +2,7 @@
 
 
 <p>
-<h1 align="center" ><b>Hi, My Shahzoor khan </h1>
+<h1 align="center" ><b>Hi,I Am Shahzoor Khan </h1>
 </p>
 <p align="center">
 <a href="https://shahzoor-portfolio.netlify.app/"><img src="https://img.shields.io/badge/PORTFOLIO-CC6699?style=for-the-badge&logoColor=white alt="Portfolio" /></a>&nbsp;
