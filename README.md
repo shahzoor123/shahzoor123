@@ -5,7 +5,7 @@
 <h1 align="center" ><b>Hi, My Shahzoor khan </h1>
 </p>
 <p align="center">
-<a href="https://technigator.netlify.app/"><img src="https://img.shields.io/badge/PORTFOLIO-CC6699?style=for-the-badge&logoColor=white alt="Portfolio" /></a>&nbsp;
+<a href="https://shahzoor-portfolio.netlify.app/"><img src="https://img.shields.io/badge/PORTFOLIO-CC6699?style=for-the-badge&logoColor=white alt="Portfolio" /></a>&nbsp;
 </a>&nbsp;
 <a href="https://twitter.com/ShahzoorKhan6"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>&nbsp;
 
