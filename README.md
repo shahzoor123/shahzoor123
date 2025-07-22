@@ -47,17 +47,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img width="400" src="https://streak-stats.demolab.com/?user=shahzoor123&count_private=true&theme=react&border_radius=10" alt="GitHub Streak Stats" />
-  <img width="400" src="https://github-readme-stats.vercel.app/api?username=shahzoor123&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="GitHub Stats" />
-  <br/><br/>
-  <img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahzoor123&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10" alt="Top Languages" />
-</div>
-
----
-
 ## 🔗 Let's Connect
 
 - 🌐 [Portfolio Website](https://shahzoor-portfolio.netlify.app)
