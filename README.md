@@ -51,7 +51,7 @@
 
 - 🌐 [Portfolio Website](https://shahzoor-portfolio.netlify.app)
 - 🐦 [Twitter/X](https://twitter.com/ShahzoorKhan6)
-- 📫 Email: shahzoork@gmail.com
+- 📫 Email: shahzoorkhan321@gmail.com
 - 🌱 Building in Public at: [@ShahzoorKhan_](https://twitter.com/ShahzoorKhan_)
 
 ---
