@@ -1,79 +1,34 @@
-<p align="center"><img src="https://github.com/shahzoor123/shahzoor123/blob/main/final.png?raw=true" style="border-radius: 10% ; alt="" width="800"></p>
-
-
-<p>
-<h1 align="center" ><b>Hi,I Am Shahzoor Khan </h1>
-</p>
-<p align="center">
-<a href="https://shahzoor-portfolio.netlify.app/"><img src="https://img.shields.io/badge/PORTFOLIO-CC6699?style=for-the-badge&logoColor=white alt="Portfolio" /></a>&nbsp;
-</a>&nbsp;
-<a href="https://twitter.com/ShahzoorKhan6"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>&nbsp;
-
-</p>
-<br />
-
-<div align="center">
- 
- 🔭 I’m currently working on Article Generator App using LLM's**
- 
- 🌱 I’m currently learning **LLms, Langchain, Next.js**
-
- 💬 Ask me about **Django, Python, Api's, MongoDB... or anything Web Apps**
-
- ⚡ Fun fact **The Term "Bug" Originated from a Moth**
- 
- </div>
-
-<h2 align="center">My Portfolio</h2>
-<br />
+<h1 align="center">Hi there 👋, I'm Shahzoor Khan</h1>
 
 <p align="center">
-
-  <a href="https://github.com/shahzoor123/Management-software-Porject.git"> 
-<p align="center">  <img align="" src="https://github.com/shahzoor123/shahzoor123/blob/main/1.png?raw=true" alt="" width="1200"></p>
-</a>
-
-
-
- 
+  <strong>Full-Stack & Backend Developer</strong> | <strong>Competitive Programmer</strong> (Codeforces | LeetCode)<br>
+  Python 🐍 | Django ⚙️ | LLMs 🤖 | AI/ML 🧠 | Open Source Contributor 🌍 | Building in Public 🚀
 </p>
 
+<p align="center">
+  <a href="https://leetcode.com/YOUR_USERNAME/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+  <a href="https://codeforces.com/profile/YOUR_USERNAME"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
+  <a href="https://github.com/shahzoor123"><img src="https://img.shields.io/github/followers/shahzoor123?label=Follow&style=for-the-badge" /></a>
+  <a href="https://www.linkedin.com/in/shahzoorkhan/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
 
+---
 
+## 🧠 About Me
 
+- 🎯 Full-Stack & Backend Developer specializing in **Python, Django, PostgreSQL, and REST APIs**
+- 💻 Passionate about **Competitive Programming** — solving real-world problems on **Codeforces** & **LeetCode**
+- 🤖 Exploring **AI/ML** and working on projects using **Large Language Models (LLMs)** like GPT & LLaMA
+- 💡 Building & shipping projects **in public** — sharing learnings, wins & failures
+- 🌱 Open-source enthusiast — love collaborating on meaningful problems
 
+---
 
-  <p>
-  <h3 align="center"><b>Languages + Framworks + Tools</b> </h3>
-  </p>
+## 🛠️ Tech Stack
 
-<br>
-
-
-  <div align="center">
-    <h3 align="center" ><b>Frontend</b> </h3>
-    <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,git,figma" /><br>
-    <h3 align="center"><b>Backend</b> </h3>
-    <img src="https://skillicons.dev/icons?i=nodejs,jquery,python,javascript,django,flask,electron" /><br>
-    <h3 align="center"><b>Databases</b> </h3>
-    <img src="https://skillicons.dev/icons?i=mongodb,postgres,sqlite,mysql" /><br>
-    <h3 align="center"><b>Depolyments</b> </h3>
-    <img src="https://skillicons.dev/icons?i=gcp,aws,postman,linux,docker,bash,vercel,nginx" /><br>
-</div>
- 
-
-
-
-<br>
-<h2 align="center">⚡ Stats ⚡</h2>
-<div align=center>
-  <img width=390 src="https://streak-stats.demolab.com/?user=salesp07&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=salesp07&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=salesp07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-</div>
- 
-
-
-
-
+```python
+Languages:     Python, JavaScript, C++, TypeScript
+Frameworks:    Django, FastAPI, Next.js, React
+Databases:     PostgreSQL, MongoDB, SQLite
+Tools:         Git, Docker, Redis, Linux, Vercel, Heroku
+AI/LLMs:       OpenAI APIs, Hugging Face Transformers, LangChain
