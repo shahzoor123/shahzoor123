@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/shahzoor123/shahzoor123/blob/main/final.png?raw=true" width="800" alt="Banner Image" />
+  <img src="https://github.com/shahzoor123/shahzoor123/blob/main/YOUR%20FULLSTACK%20DEVELOPER.png" width="800" alt="Banner Image" />
 </p>
 
 <h1 align="center"><b>Hi, I'm Shahzoor Khan 👋</b></h1>
@@ -26,18 +26,6 @@
 - 🎯 Daily Practice: Competitive Programming on **Codeforces & LeetCode**
 - 🤖 Exploring: **Generative AI & Language Models**
 - ⚡ Fun Fact: The term **"bug"** originated from a moth 🦋 found in a computer!
-
----
-
-## 📌 Featured Project
-
-<p align="center">
-  <a href="https://github.com/shahzoor123/Management-software-Porject.git">
-    <img src="https://github.com/shahzoor123/shahzoor123/blob/main/1.png?raw=true" alt="Project Banner" width="100%" />
-  </a>
-</p>
-
----
 
 ## 💻 Tech Stack
 
